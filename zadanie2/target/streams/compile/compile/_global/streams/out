@@ -1,0 +1,4 @@
+[warn] /Users/lucaskopka/dev/ebiznes/test/app/controllers/ProductsController.scala:24:16: Implicit definition should have explicit type (inferred play.api.libs.json.Writes[ProductController.this.Product]{def writes(product: ProductController.this.Product): play.api.libs.json.JsObject}) [quickfixable]
+[warn]   implicit val productWrites = new Writes[Product] {
+[warn]                ^
+[warn] one warning found

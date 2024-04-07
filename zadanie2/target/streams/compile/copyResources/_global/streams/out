@@ -1,0 +1,5 @@
+[debug] Copy resource mappings: 
+[debug] 	(/Users/lucaskopka/dev/ebiznes/test/conf/logback.xml,/Users/lucaskopka/dev/ebiznes/test/target/scala-2.13/classes/logback.xml)
+[debug] 	(/Users/lucaskopka/dev/ebiznes/test/conf/messages,/Users/lucaskopka/dev/ebiznes/test/target/scala-2.13/classes/messages)
+[debug] 	(/Users/lucaskopka/dev/ebiznes/test/conf/application.conf,/Users/lucaskopka/dev/ebiznes/test/target/scala-2.13/classes/application.conf)
+[debug] 	(/Users/lucaskopka/dev/ebiznes/test/conf/routes,/Users/lucaskopka/dev/ebiznes/test/target/scala-2.13/classes/routes)
